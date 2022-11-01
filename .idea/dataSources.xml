@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails wikicat: development" uuid="216ae1c9-ba44-4386-a044-87876b2c2975">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://172.19.148.224:5432/wikicat_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails wikicat: production" uuid="c0a2d212-6a1b-478a-b942-30025f40d8b6">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/wikicat_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails wikicat: test" uuid="cb852c90-32cf-4066-8212-20cc78381418">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://172.19.148.224:5432/wikicat_test</jdbc-url>
+    </data-source>
+  </component>
+</project>
