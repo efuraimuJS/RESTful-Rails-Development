@@ -7,6 +7,9 @@
 # Ignore bundler config.
 /.bundle
 
+# emacs residues
+*~
+
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
